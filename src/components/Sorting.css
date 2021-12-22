@@ -1,0 +1,18 @@
+.array-container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.array-bar{
+    width: 80px;
+    color: black;
+    background-color: cyan;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.tempdiv{
+    width: 1px;
+    height: 600px;
+}
